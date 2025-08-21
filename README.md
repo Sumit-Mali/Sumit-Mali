@@ -1,7 +1,3 @@
-<style>
-  .header{
-    text-align: center;
-</style>
 <h1 class="header">Hi 👋, I’m Sumit Mali</h1>
 Software Engineer | Full Stack Enthusiast
 👩‍💻 About Me
