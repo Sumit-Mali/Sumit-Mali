@@ -1,4 +1,4 @@
-<h1 className="center">Hi 👋, I’m Sumit Mali</h1>
+<h1 text-center>Hi 👋, I’m Sumit Mali</h1>
 Software Engineer | Full Stack Enthusiast
 👩‍💻 About Me
 
